@@ -19,7 +19,7 @@ class _SchedulerLayoutState extends State<SchedulerLayout> {
   static const borderSideColor = Colors.blue;
   static const textButtonColor = Colors.white;
   static const buttonColor = Color(0xFF292D32);
-  static const textPadding = EdgeInsets.all(8.0);
+  static const textPadding = EdgeInsets.all(12.0);
   static const timeIcon = Icon(Icons.access_time);
   static const arrowBackIcon = Icon(Icons.arrow_back);
   static const personAddIcon = Icon(Icons.person_add);
